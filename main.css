@@ -1,0 +1,24 @@
+/* Inserta tu CSS aqui */
+
+div{
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+	margin-bottom: 10px;
+	display: block;
+	margin-left: 10px;
+	background-color: #817878;
+}
+.uno{
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 7px;
+	margin-right: 5px;
+}
+.dos{
+	display: inline-block;
+}
+.padre{
+	height: 125px;
+	width: 355px;
+}
